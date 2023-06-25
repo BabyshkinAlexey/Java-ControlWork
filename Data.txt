@@ -1,7 +1,0 @@
-ID  NAME Quantity
-
-1    LEGO    3
-2    CAR     2
-3    Doll    5
-4    yoyo    6
-5    jango   21
